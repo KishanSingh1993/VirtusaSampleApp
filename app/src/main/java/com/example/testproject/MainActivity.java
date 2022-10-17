@@ -36,8 +36,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
          dataViewModel = ViewModelProviders.of(this).get(DataViewModel.class);
 
 
-
-
     }
 
     public void getApiData(){
